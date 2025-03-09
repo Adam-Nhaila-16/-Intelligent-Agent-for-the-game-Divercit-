@@ -1,1 +1,1 @@
-# -Intelligent-Agent-for-the-game-Divercit-
+# Intelligent-Agent-for-the-game-Divercit-
